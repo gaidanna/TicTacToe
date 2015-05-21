@@ -1,0 +1,5 @@
+c:\users\anna\documents\visual studio 2010\Projects\OOP_krestikiNoliki\OOP_krestikiNoliki\bin\Debug\OOP_krestikiNoliki.exe
+c:\users\anna\documents\visual studio 2010\Projects\OOP_krestikiNoliki\OOP_krestikiNoliki\bin\Debug\OOP_krestikiNoliki.pdb
+c:\users\anna\documents\visual studio 2010\Projects\OOP_krestikiNoliki\OOP_krestikiNoliki\obj\x86\Debug\OOP_krestikiNoliki.exe
+c:\users\anna\documents\visual studio 2010\Projects\OOP_krestikiNoliki\OOP_krestikiNoliki\obj\x86\Debug\OOP_krestikiNoliki.pdb
+C:\Users\Anna\documents\visual studio 2010\Projects\OOP_krestikiNoliki\OOP_krestikiNoliki\obj\x86\Debug\OOP_krestikiNoliki.csprojResolveAssemblyReference.cache
